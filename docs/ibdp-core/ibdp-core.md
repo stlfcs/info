@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IB DP Core
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /docs/ibdp-core
 ---
