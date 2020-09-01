@@ -17,7 +17,7 @@ Computer Science is offered at International Baccalaureate Diploma Programme (IB
 
 ### Exams in 2021 and 2022
 
-The current courses are using the syllabus for exams first sat in 2014. 2022 will be the final year this syllabus is examined.
+The current courses are using the syllabus for exams first sat in 2014. 2023 will be the final year this syllabus is examined.
 
 ## GCSE
 

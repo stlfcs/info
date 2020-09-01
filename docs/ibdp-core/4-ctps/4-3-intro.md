@@ -131,6 +131,13 @@ Some people divide 3GL into further categories:
 commonly used in database programming and scripts e.g. Perl, PHP, Python, Ruby, SQL.
 5th generation - contain visual tools to help develop a program e.g. Mercury, OPS5, and Prolog.
 
+Below is table from W3Resource giving the global popularity of the various languages according to the TIOBE Programming Community index, an indicator of the popularity of programming languages based on the number of skilled engineers world-wide, courses and third party vendors and popular search engine data.
+
+![Table of top 15 most popular programming languages globally.]({{site.baseurl}}/assets/images/4_ctps/lang_popularity.png)
+####TIOBE Language Popularity Index for August 2020
+<span class="fs-2">
+[Link to source](https://www.tiobe.com/tiobe-index/){: .btn .btn-outline }</span>
+
 ### Compiled and Interpreted Code
 
 When using high-level languages, you still need to convert the code into machine code so it can run on the CPU. There are two ways to translate high-level languages into low-level languages:
